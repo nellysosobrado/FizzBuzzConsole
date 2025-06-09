@@ -1,6 +1,6 @@
 ﻿using FizzBuzzConsole;
 
-namespace FizzBuzzConsoleEndTests
+namespace FizzBuzzTests
 {
     [TestClass]
     public class FizzBuzzTests
